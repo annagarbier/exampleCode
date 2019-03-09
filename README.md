@@ -14,4 +14,4 @@ This is a quick proof-of-concept sketch, beginning to think about the relationsh
 
 ## [./blueLines](https://github.com/annagarbier/exampleCode/edit/master/blueLines)
 
-A super-short study on controlled randomness.
+A super-short study on the aesthetics of controlled randomness.
