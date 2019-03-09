@@ -12,7 +12,7 @@ Sol LeWitt [wrote instructions](https://www.google.com/search?q=sol+lewitt+wall+
 
 A lightweight prototype of a language-based drawing tool. This javascript interface accepts natural language text like "draw a big blue square in the top left" or "make a tiny triangle", and generates a corresponding drawing on the screen.
 
-This is a quick proof-of-concept sketch, beginning to think about the relationship between linguistic and visual communication: *how do we (humans) talk about visuals? How do computers talk about visuals? How do we talk to computers about visuals?*
+This is quick proof-of-concept code, beginning to think about the relationship between linguistic and visual communication: *how do we (humans) talk about visuals? How do computers talk about visuals? How do we talk to computers about visuals?*
 
 ![Image](https://github.com/annagarbier/exampleCode/blob/master/nlpDraw/nlpDrawImg.png)
 
