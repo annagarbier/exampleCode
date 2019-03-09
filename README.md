@@ -8,4 +8,4 @@ Sol LeWitt [wrote instructions](https://www.google.com/search?q=sol+lewitt+wall+
 
 ## [./nlpDraw](https://github.com/annagarbier/exampleCode/edit/master/nlpDraw)
 
-A lightweight prototype of a language-based drawing tool. This javascript interface accepts natural language text like "draw a big blue square in the top left" or "make a tiny triangle", and returns a corresponding drawing. This is a quick proof-of-concept for potential future work into the relationship between linguistic and visual communication.
+A lightweight prototype of a language-based drawing tool. This javascript interface accepts natural language text like "draw a big blue square in the top left" or "make a tiny triangle", and generates a corresponding drawing on the screen. This is a quick proof-of-concept for potential future work into the relationship between linguistic and visual communication.
