@@ -6,7 +6,7 @@ Repository of example code, broken down by general tools and/or content.
 
 Sol LeWitt [wrote instructions](https://www.google.com/search?q=sol+lewitt+wall+drawing+instructions&rlz=1C5CHFA_enUS807US807&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjk-Py8h_bgAhVCZN8KHZKrBV4Q_AUIDigB&biw=1440&bih=766) for generating drawings. But what would these instructions look like if we weren't creating images, but instead were creating language? Specifically, random little ditties.
 
-![Image](https://github.com/annagarbier/exampleCode/edit/master/solLewitt/solLewittImg.png)
+![Image](https://github.com/annagarbier/exampleCode/blob/master/solLewitt/solLewittImg.png)
 
 ## [./nlpDraw](https://github.com/annagarbier/exampleCode/edit/master/nlpDraw)
 
@@ -14,10 +14,10 @@ A lightweight prototype of a language-based drawing tool. This javascript interf
 
 This is a quick proof-of-concept sketch, beginning to think about the relationship between linguistic and visual communication: *how do we (humans) talk about visuals? How do computers talk about visuals? How do we talk to computers about visuals?*
 
-![Image](https://github.com/annagarbier/exampleCode/edit/master/nlpDraw/nlpDrawImg.png)
+![Image](https://github.com/annagarbier/exampleCode/blob/master/nlpDraw/nlpDrawImg.png)
 
 ## [./blueLines](https://github.com/annagarbier/exampleCode/edit/master/blueLines)
 
 A super-short study on the aesthetics of controlled randomness.
 
-![Image](https://github.com/annagarbier/exampleCode/edit/master/blueLines/blueLinesImg.png)
+![Image](https://github.com/annagarbier/exampleCode/blob/master/blueLines/blueLinesImg.png)
