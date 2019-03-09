@@ -4,8 +4,6 @@ button {
     border: none;
     border-radius: 3px;
     background-color: rgba(255, 195, 0, .5);
-/*    border: 1px solid #d3d3d3;
-    background-color: #d3d3d3;*/
 }
 
 button:hover {
@@ -14,6 +12,11 @@ button:hover {
     background-color: rgba(255, 195, 0, 1);
 }
 
-button:focus {
+button:focus, .inputbox:focus {
     outline: none;
+}
+
+.inputbox {
+    width: 680px;
+    height: 20px;
 }
