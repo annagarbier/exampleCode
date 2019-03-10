@@ -8,6 +8,8 @@
 // well enough to prove that the interaction
 // (i.e. lanuage input -> inmmediate image output) is engaging. 
 
+// Author: Anna Garbier (annagarbier)
+
 // Canvas specs
 const canvas = {
     width: 800,
