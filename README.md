@@ -1,4 +1,4 @@
-# exampleCode
+# Example Code
 
 Repository of example code, with short descriptions and example output images.
 
