@@ -1,10 +1,9 @@
-// require https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.js
-// require https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/addons/p5.dom.js
-
 // IF SOL LEWITT WROTE DITTIES
 // With each run, this program generates a little sequence of
 // "la", "di", "da", "dum"s. It then provies Sol Lewitt- style
 // instructions for how to pronounce the ranomly generated sequence.
+
+// Author: Anna Garbier (annagarbier)
 
 const font_size = 15,
     row_height = font_size * 1.5,
