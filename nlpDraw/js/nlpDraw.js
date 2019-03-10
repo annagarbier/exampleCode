@@ -1,6 +1,3 @@
-// require https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/p5.js
-// require https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/addons/p5.dom.js
-
 // Get user input in the form of a natural language string.
 // Attempt to parse it, and translate it into a simple drawing on
 // the screen. Note that this is a 90-minute prototype. While it has
